@@ -1,0 +1,10 @@
+*.pyc
+*.log
+.DS_Store
+.#*
+TAGS
+dist/
+build/
+env/
+settings.ini
+collection.egg-info/
